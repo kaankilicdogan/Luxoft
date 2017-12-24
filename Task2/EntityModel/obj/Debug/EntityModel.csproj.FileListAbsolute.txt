@@ -1,0 +1,11 @@
+C:\Users\A591751\documents\visual studio 2013\Projects\Task2\EntityModel\bin\Debug\EntityModel.pdb
+C:\Users\A591751\documents\visual studio 2013\Projects\Task2\EntityModel\obj\Debug\EntityModel.pdb
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\EntityModel\bin\Debug\LiteDB.dll
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\EntityModel\bin\Debug\LiteDB.xml
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\EntityModel\bin\Debug\Microsoft.CSharp.dll
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\EntityModel\bin\Debug\System.Xml.dll
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\EntityModel\bin\Debug\System.Xml.Linq.dll
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\EntityModel\obj\Debug\EntityModel.csprojResolveAssemblyReference.cache
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\EntityModel\bin\Debug\EntityModel.dll.config
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\EntityModel\bin\Debug\EntityModel.dll
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\EntityModel\obj\Debug\EntityModel.dll

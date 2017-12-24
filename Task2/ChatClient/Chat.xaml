@@ -1,0 +1,17 @@
+﻿<Page x:Class="ChatClient.Chat"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      Height="480" Width="640"
+	Title="Chat">
+
+    <Grid>
+        <TextBox x:Name="messageHistory" HorizontalAlignment="Left" Height="318" Margin="33,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="578" AcceptsReturn="True" VerticalScrollBarVisibility="Auto"/>
+        <Label x:Name="header" Content="Label" HorizontalAlignment="Left" Margin="74,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.51,1.319" Width="501" FontSize="24" FontWeight="Bold"/>
+        <TextBox x:Name="newMessage" HorizontalAlignment="Left" Height="33" Margin="33,385,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="318"/>
+        <Button Content="Submit" HorizontalAlignment="Left" Margin="356,385,0,0" VerticalAlignment="Top" Width="141" RenderTransformOrigin="0.175,0.961" Height="32" Click="Button_Click"/>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="502,385,0,0" VerticalAlignment="Top" Width="109" Height="33" Click="Button_Click_1"/>
+    </Grid>
+</Page>

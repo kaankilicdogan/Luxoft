@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHostedWCFService", "SelfHostedWCFService\SelfHostedWCFService.csproj", "{FDD30711-DCDD-40C3-8450-D9284A64DDB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServerBusiness", "ChatServerBusiness\ChatServerBusiness.csproj", "{2ECA888D-3192-4C36-B93D-D14FC58A7A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityModel", "EntityModel\EntityModel.csproj", "{EC91068E-05A8-4AB0-975A-450CA958E2A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient", "ChatClient\ChatClient.csproj", "{9EEA3116-6C66-425F-B5E5-C55FCC401677}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FDD30711-DCDD-40C3-8450-D9284A64DDB4} = {FDD30711-DCDD-40C3-8450-D9284A64DDB4}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDD30711-DCDD-40C3-8450-D9284A64DDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD30711-DCDD-40C3-8450-D9284A64DDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD30711-DCDD-40C3-8450-D9284A64DDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD30711-DCDD-40C3-8450-D9284A64DDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ECA888D-3192-4C36-B93D-D14FC58A7A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECA888D-3192-4C36-B93D-D14FC58A7A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECA888D-3192-4C36-B93D-D14FC58A7A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECA888D-3192-4C36-B93D-D14FC58A7A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC91068E-05A8-4AB0-975A-450CA958E2A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC91068E-05A8-4AB0-975A-450CA958E2A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC91068E-05A8-4AB0-975A-450CA958E2A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC91068E-05A8-4AB0-975A-450CA958E2A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EEA3116-6C66-425F-B5E5-C55FCC401677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEA3116-6C66-425F-B5E5-C55FCC401677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEA3116-6C66-425F-B5E5-C55FCC401677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEA3116-6C66-425F-B5E5-C55FCC401677}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+﻿-------------------------------------------------------------
+a- list of clients, which have an order with order_sum > 50 
+--------------------------------------------------------------
+select *
+from Clients
+where Exists( 	Select Orders.client_id 
+		from Orders
+		where Orders.client_id = Clients.client_id and
+			Orders.order_sum > 50
+	    )
+-----------------------------------------------------------------
+b- clients, whose total sum of orders exceeds 100
+-----------------------------------------------------------------
+select *
+from Clients
+where ( 	Select SUM (Orders.order_sum) 
+		from Orders
+		where Orders.client_id = Clients.client_id
+	    ) > 100

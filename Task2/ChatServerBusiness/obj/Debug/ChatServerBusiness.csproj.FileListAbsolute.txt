@@ -1,0 +1,9 @@
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\ChatServerBusiness\bin\Debug\ChatServerBusiness.dll
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\ChatServerBusiness\bin\Debug\ChatServerBusiness.pdb
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\ChatServerBusiness\bin\Debug\LiteDB.dll
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\ChatServerBusiness\bin\Debug\EntityModel.pdb
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\ChatServerBusiness\bin\Debug\LiteDB.xml
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\ChatServerBusiness\obj\Debug\ChatServerBusiness.csprojResolveAssemblyReference.cache
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\ChatServerBusiness\obj\Debug\ChatServerBusiness.dll
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\ChatServerBusiness\obj\Debug\ChatServerBusiness.pdb
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\ChatServerBusiness\bin\Debug\EntityModel.dll

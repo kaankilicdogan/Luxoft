@@ -1,0 +1,7 @@
+﻿We have a class representing binary tree nodes: 
+class BTN { 
+    int val; 
+    BTN left; 
+    BTN right; 
+} 
+please implement method to compare 2 such trees (returns: true if fully equal, false - otherwise) 

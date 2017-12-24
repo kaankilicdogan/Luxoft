@@ -1,0 +1,2 @@
+﻿We have a class : class Element { int num; String name; int age; } 
+    please implement method taking Collection<Element> as an argument and returning Collection<Element> where all elements are unique by "num" and age>20. In case of ambiguity, put in target collection any of input elements. 

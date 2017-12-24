@@ -1,0 +1,12 @@
+C:\Users\A591751\documents\visual studio 2013\Projects\Task2\SelfHostedWCFService\bin\Debug\SelfHostedWCFService.dll.config
+C:\Users\A591751\documents\visual studio 2013\Projects\Task2\SelfHostedWCFService\bin\Debug\SelfHostedWCFService.dll
+C:\Users\A591751\documents\visual studio 2013\Projects\Task2\SelfHostedWCFService\bin\Debug\SelfHostedWCFService.pdb
+C:\Users\A591751\documents\visual studio 2013\Projects\Task2\SelfHostedWCFService\obj\Debug\SelfHostedWCFService.csprojResolveAssemblyReference.cache
+C:\Users\A591751\documents\visual studio 2013\Projects\Task2\SelfHostedWCFService\obj\Debug\SelfHostedWCFService.dll
+C:\Users\A591751\documents\visual studio 2013\Projects\Task2\SelfHostedWCFService\obj\Debug\SelfHostedWCFService.pdb
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\SelfHostedWCFService\bin\Debug\ChatServerBusiness.dll
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\SelfHostedWCFService\bin\Debug\EntityModel.dll
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\SelfHostedWCFService\bin\Debug\LiteDB.dll
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\SelfHostedWCFService\bin\Debug\ChatServerBusiness.pdb
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\SelfHostedWCFService\bin\Debug\EntityModel.pdb
+C:\Users\A591751\Documents\Visual Studio 2013\Projects\Task2\SelfHostedWCFService\bin\Debug\LiteDB.xml
